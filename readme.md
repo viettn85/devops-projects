@@ -35,3 +35,9 @@ This repository includes devops projects using Docker and related tools/framewor
 - [Start Docker Daemon on Mac](https://superuser.com/questions/1276583/starting-docker-daemon-on-mac)
 
   open --background -a Docker
+
+- [Install ps](https://github.com/tianon/docker-brew-debian/issues/13)
+
+  apt-get install -y procps
+
+  yum install -y procps
